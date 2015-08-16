@@ -2,4 +2,4 @@
 
 echo 'HELLO GIT";
 
- some comment
+ echo " haiiiii into to git basic";
